@@ -15,6 +15,16 @@ Este archivo lo voy a ir editando con la estructura.
     * WebDriverFactory.py
     * WebDriverListener.py
     * \_\_init_\_\.py
+
+  * Desktop
+    * \_\_init_\_\.py
+    * resources.py
+    * test_advanced_search.py
+    
+    * Pages
+      * \_\_init_\_\.py
+      * HomePage.py
+      * WombatPage.py
     
   * LICENSE.md
   * README.md
